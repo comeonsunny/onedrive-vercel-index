@@ -136,7 +136,7 @@ Open-source is hard! If you happen to like this project and want me to keep goin
 
 [🧸 Please donate - 微信/支付宝](https://ovi.swo.moe/sponsor) · [Patreon](https://www.patreon.com/spencerwoo) · [爱发电](https://afdian.net/@spencerwoo)
 
-### Sponsors
+### Sponsors.
 
 *Your name will appear here if you sponsor or donate 😀*
 
